@@ -1,0 +1,19 @@
+
+Œ
+java:S3008"jRename this field "AZURE_STORAGE_CONNECTION_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùîÓıÿÿÿÿ8´åªõ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥¦€­8¸åªõ0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(æ»ş8Àåªõ0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ÍĞçùÿÿÿÿ8Àåªõ0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÑÕã£8Âåªõ0
+S
+java:S18746"6Remove this use of "getMessageText"; it is deprecated.(ÑÕã£8Âåªõ0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ÕÀô¹ıÿÿÿÿ8ÃÃªõ0
+X
+java:S1874B"6Remove this use of "getMessageText"; it is deprecated.(ÕÀô¹ıÿÿÿÿ8ãÀ‘ªõ0
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(åÇğş8ÃÃªõ0
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(Çğõ"8äÀ‘ªõ0
+L
+java:S1128"/Remove this unused import 'com.azure.identity'.(°õˆ8Ãåªõ0
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8Ãåªõ0
+_secrets:S6338":Make sure this Azure Storage Account Key is not disclosed.(ùîÓıÿÿÿÿ8€ú¾©õ0

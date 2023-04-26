@@ -1,0 +1,15 @@
+{
+  "scriptFile" : "../function-v1-1.jar",
+  "entryPoint" : "com.dk.cloudfunction.Function.run",
+  "bindings" : [ {
+    "type" : "httpTrigger",
+    "direction" : "in",
+    "name" : "req",
+    "methods" : [ "GET", "POST" ],
+    "authLevel" : "ANONYMOUS"
+  }, {
+    "type" : "http",
+    "direction" : "out",
+    "name" : "$return"
+  } ]
+}
